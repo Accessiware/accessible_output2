@@ -1,0 +1,2 @@
+http://github.com/accessiware/libloader/tarball/master#egg=libloader-0.21
+http://github.com/accessiware/platform_utils/tarball/master#egg=platform_utils-0.40
