@@ -1,5 +1,5 @@
 from __future__ import absolute_import
-import win32gui
+from win32 import win32gui
 from libloader.com import load_com
 import pywintypes
 
